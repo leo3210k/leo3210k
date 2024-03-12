@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="Hi, I'm Leonardo" src="./assets/cover.png" />
+
 ## About me
 
 - 🔭 Exploring new technologies and developing software solutions.
