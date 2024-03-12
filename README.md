@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
 <a href="https://github.com/leo3210k" title="Perfil do Leo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo3210k&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo3210k&theme=radical&show_icons=true" />
 </a>
 
 ## Where to find me
