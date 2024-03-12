@@ -22,6 +22,6 @@
 
 ## Where to find me
 
-[![Linkedin](https://img.shields.io/badge/-Leonardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/leonardo-coêlho-9599b9200)](www.linkedin.com/in/leonardo-coêlho-9599b9200)
+[![Linkedin](https://img.shields.io/badge/-Leonardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-coêlho-9599b9200)](https://www.linkedin.com/in/leonardo-coêlho-9599b9200)
 [![Gmail Badge](https://img.shields.io/badge/-leocoelho.pi@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leocoelho.pi@gmail.com)](mailto:leocoelho.pi@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/leo3210k?label=follow&style=social)](https://github.com/leo3210k)
