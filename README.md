@@ -22,9 +22,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
-<a href="https://github.com/leo3210k" title="Perfil do Leo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo3210k&theme=radical&show_icons=true" />
-</a>
+![Leonardo Coêlho's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo3210k&show_icons=true&theme=radical)
+[![leo3210k](https://github-readme-stats.vercel.app/api/top-langs/?username=leo3210k&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Where to find me
 
