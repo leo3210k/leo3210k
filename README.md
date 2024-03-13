@@ -14,13 +14,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
 
-🔨 **Frameworks**
+:dart: **Frameworks**
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,tailwind)](https://skillicons.dev)
 
 💾 **Databases**
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+
+🔨 **Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=github,git,postman)](https://skillicons.dev)
 
 <div>
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=leo3210k&show_icons=true&theme=radical&count_private=true"/>
