@@ -10,15 +10,15 @@
 - ⚡ Fun fact: I'm a drawing lover but still terrible at it!
 
 ## My Skills
-💪 Languages
+💪 **Languages**
 
 [![My Skills](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
 
-🔨 Frameworks
+🔨 **Frameworks**
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,tailwind)](https://skillicons.dev)
 
-💾 Databases
+💾 **Databases**
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
