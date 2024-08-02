@@ -16,7 +16,7 @@
 
 :dart: **Frameworks**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,angular,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,angular,spring,bootstrap,tailwind)](https://skillicons.dev)
 
 💾 **Databases**
 
