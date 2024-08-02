@@ -12,7 +12,7 @@
 ## My Skills
 💪 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java)](https://skillicons.dev)
 
 :dart: **Frameworks**
 
